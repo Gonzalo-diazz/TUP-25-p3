@@ -1,5 +1,4 @@
 // TP2: Sistema de Cuentas Bancarias
-//
 
 // Implementar un sistema de cuentas bancarias que permita realizar operaciones como depósitos, retiros, transferencias y pagos.
 
